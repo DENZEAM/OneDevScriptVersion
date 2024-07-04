@@ -1,0 +1,5 @@
+version: 1.0.1
+updates:
+- Added feature X
+- Fixed bug Y
+- Improved performance
